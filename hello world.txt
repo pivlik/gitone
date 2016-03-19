@@ -1,5 +1,2 @@
 print("Hello world");
-print("vsv");
-fefrer
-Print("try");
-pri("five")
+print("Hello geeks");
